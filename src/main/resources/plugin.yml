@@ -1,0 +1,4 @@
+name: NoRecipeBookCrafting
+version: ${project.version}
+main: pw.valaria.norecipebookcrafting.NoRecipeBookCrafting
+depend: [ProtocolLib]
